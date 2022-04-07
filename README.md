@@ -1,2 +1,2 @@
-# resume
-My CV
+# Resume
+This is my curriculum vitae.
